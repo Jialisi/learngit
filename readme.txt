@@ -1,5 +1,5 @@
-git is a distributed version control system
-git is a free software
+Git is a distributed version control system
+Git is a free software
 
 
 this line is for test
