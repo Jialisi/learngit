@@ -5,3 +5,5 @@ Git is a free software
 this line is for test
 
 add a line for test
+
+git tracks changes of files
