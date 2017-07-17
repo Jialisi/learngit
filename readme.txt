@@ -9,3 +9,5 @@ add a line for test
 git tracks changes of files
 
 git tracks changes
+
+creating a new branch is quick.
