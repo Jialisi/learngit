@@ -11,3 +11,5 @@ git tracks changes of files
 git tracks changes
 
 creating a new branch is quick.
+
+create a new branch is quick AND simple.
